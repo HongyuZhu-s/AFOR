@@ -8,9 +8,9 @@ Adam and AdamW with a dynamic coefficient estimated online from local
 gradient statistics.
 
 <p align="center">
-  <a href="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.pdf">
+  <a href="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.png">
     <img
-      src="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.pdf?raw=1"
+      src="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.png?raw=1"
       alt="Overview of the AFOR optimizer"
       width="100%"
     />
@@ -18,7 +18,7 @@ gradient statistics.
 </p>
 
 <p align="center">
-  <a href="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.pdf">
+  <a href="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.png">
     Open the AFOR overview figure as a PDF
   </a>
 </p>
