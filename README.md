@@ -85,17 +85,8 @@ dataset license and usage terms.
 | --- | --- | ---: | --- |
 | DEAP | Emotion recognition | 32 | 32 channels, 128 Hz; binary valence or arousal | 
 | BCI Competition IV 2a | Motor imagery | 9 | 22 channels, 250 Hz; four classes | 
-| ISRUC-Sleep SG-I | Sleep staging | 100 | Six EEG channels, 200 Hz; five sleep stages |
+| ISRUC-Sleep SG-I | Sleep staging | 100 | 6 EEG channels, 200 Hz; five sleep stages |
 
-
-### Preprocessing Used by the Paper
-
-- **DEAP:** baseline subtraction, 0.3-50 Hz fifth-order Butterworth
-  band-pass filtering, and non-overlapping 1-second windows.
-- **BCI IV 2a:** 0.5-3.5 seconds after cue onset, 0.3-50 Hz band-pass
-  filtering, and overlapping 250-sample windows with a 125-sample stride.
-- **ISRUC:** 30-second epochs segmented into overlapping 600-sample windows
-  with a 300-sample stride; no band-pass filtering.
 
 ## Installation
 
