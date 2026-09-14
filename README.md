@@ -73,17 +73,19 @@ The repository does not redistribute datasets, and follow the original
 dataset license and usage terms.
 
 [[DEAP](https://www.eecs.qmul.ac.uk/mmv/datasets/deap/)]
+
 [[BCI Competition IV 2a](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2012.00055/full)]
+
 [[ISRUC-Sleep](https://www.sciencedirect.com/science/article/abs/pii/S0169260715002734)]
 
 
 ### Paper Benchmarks
 
-| Dataset | Task | Subjects | EEG information | Default code key |
-| --- | --- | ---: | --- | --- |
-| DEAP | Emotion recognition | 32 | 32 channels, 128 Hz; binary valence or arousal | `deap` |
-| BCI Competition IV 2a | Motor imagery | 9 | 22 channels, 250 Hz; four classes | `bci42a` |
-| ISRUC-Sleep SG-I | Sleep staging | 100 | Six EEG channels, 200 Hz; five sleep stages | `isruc` |
+| Dataset | Task | Subjects | EEG information |
+| --- | --- | ---: | --- |
+| DEAP | Emotion recognition | 32 | 32 channels, 128 Hz; binary valence or arousal | 
+| BCI Competition IV 2a | Motor imagery | 9 | 22 channels, 250 Hz; four classes | 
+| ISRUC-Sleep SG-I | Sleep staging | 100 | Six EEG channels, 200 Hz; five sleep stages |
 
 
 ### Preprocessing Used by the Paper
