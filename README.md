@@ -1,6 +1,4 @@
-# AFOR
-
-## Adaptive Forgetting for Nonstationary Optimization
+## Adaptive Forgetting for Nonstationary Optimization (AFOR)
 
 AFOR is a tensor-wise adaptive optimizer for robust cross-subject EEG
 decoding. It replaces the fixed second-moment decay coefficient used by
@@ -14,12 +12,6 @@ gradient statistics.
       alt="Overview of the AFOR optimizer"
       width="100%"
     />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/HongyuZhu-s/AFOR/blob/main/Fig/Fig1.png">
-    Open the AFOR overview figure as a PDF
   </a>
 </p>
 
